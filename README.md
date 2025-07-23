@@ -34,6 +34,8 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
+#### Dataset
+All the dataset used in this study is available in this Hydroshare link: https://www.hydroshare.org/resource/a20de1de8cdf4c5197f46319cb911242/
 
 ### For More Information
 For more information, do contact team Hydropulse- Supath Dhital (sdhital@crimson.ua.edu), Yogesh Bhattarai (yogesh.bhattarai@bison.howard.edu) and Samrin Sauda (sss6318@psu.edu)
